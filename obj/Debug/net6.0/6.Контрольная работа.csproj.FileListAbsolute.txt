@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\bin\Debug\net6.0\6.Контрольная работа.exe
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\bin\Debug\net6.0\6.Контрольная работа.deps.json
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\bin\Debug\net6.0\6.Контрольная работа.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\bin\Debug\net6.0\6.Контрольная работа.dll
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\bin\Debug\net6.0\6.Контрольная работа.pdb
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.dll
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\refint\6.Контрольная работа.dll
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.pdb
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\6.Контрольная работа.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\6-Выбор специализации\6.Контрольная работа\obj\Debug\net6.0\ref\6.Контрольная работа.dll
