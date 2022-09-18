@@ -40,8 +40,8 @@ void PrintArray (string[] col)
     Console.Write("[ ");
     while(position<count) 
     {
-        if(position==count-1)  {Console.Write($" {col[position]}");}
-        else {Console.Write($"{col[position]}, ");}
+        if(position==count-1)  {Console.Write($" \"{col[position]}\"");}
+        else {Console.Write($"\"{col[position]}\", ");}
         
         position++;
     }
