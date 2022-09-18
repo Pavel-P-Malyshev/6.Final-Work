@@ -4,7 +4,7 @@
 лучше обойтись исключительно массивами.*/
 
 
-//ввод набора чисел с консоли строкой
+//ввод набора строк с консоли через разделитель ","
 string[] ParseArray(string message)
 {
     Console.WriteLine(message);
@@ -20,17 +20,35 @@ string[] ParseArray(string message)
 
 
 
-
-//ввод значения с клавиатуры
-int Prompt(string message)
+//основной метод
+string[] LeaveShorts(string[] messages)
 {
-    System.Console.Write(message);
-    string readValue=Console.ReadLine();
-    return int.Parse(readValue);
+    
+    int shorts=0;
+    string[] Shorts=new string[messages.Length];
+
+    for (int i = 0; i < messages.Length; i++)
+    {
+        if (messages[i].Length<=3)
+        {
+            Shorts[shorts]=messages[i];
+            shorts++;
+        }
+    }
+    
+    string[] result=new string [shorts];
+    for (int i = 0; i < result.Length; i++)
+    {
+        result[i]=Shorts[i];
+    }
+
+    return result;
+
 }
 
 
-//распечатка массива
+
+//распечатка массива строк
 void PrintArray (string[] col)
 {
 
@@ -49,5 +67,11 @@ void PrintArray (string[] col)
 
 }
 
-string[] input=ParseArray("ВВедите массив строк через запятую");
+
+
+
+string[] input=ParseArray("Введите массив строк через запятую");
+Console.WriteLine("Получившийся массив строк:");
 PrintArray(input);
+Console.WriteLine("Массив строк с длиной не более 3 символов: ");
+PrintArray(LeaveShorts(input));
