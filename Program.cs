@@ -70,8 +70,8 @@ void PrintArray (string[] col)
 
 
 
-string[] input=ParseArray("Введите массив строк через запятую");
-Console.WriteLine("Получившийся массив строк:");
+string[] input=ParseArray("Введите строки через запятую:");
+Console.WriteLine("Ваш массив строк:");
 PrintArray(input);
-Console.WriteLine("Массив строк с длиной не более 3 символов: ");
+Console.WriteLine("Получившийся массив строк с длиной не более 3 символов: ");
 PrintArray(LeaveShorts(input));
